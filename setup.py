@@ -19,9 +19,9 @@ setup(
         'Programming Language :: Python :: 2.7',
     ],
     author='OneLogin',
-    author_email='support@onelogin.com',
+    author_email='chittab@gmail.com',
     license='MIT',
-    url='https://github.com/onelogin/python-saml',
+    url='https://github.com/chittab/python-saml',
     packages=['onelogin','onelogin/saml2'],
     include_package_data=True,
     package_data = {
